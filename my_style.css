@@ -1,0 +1,34 @@
+body{
+  font-family: Helvetica; 
+  background-color: #69ba5f;
+}
+
+#header{
+  height: 100px;
+  background-color: #2253a3; 
+  margin-right: 200px;    
+  margin-left: 200px; 
+  padding: 50px;
+  margin-top: 100px;
+  color: aliceblue;
+}
+
+#header h1{
+  margin-left: 145px;
+  margin-top: 30px;
+}
+
+#header2{
+  height: 100px;
+  background-color: #2253a3; 
+  margin-right: 200px;    
+  margin-left: 200px; 
+  padding: 50px;
+  margin-top: 100px;
+  color: aliceblue;
+}
+
+#header2 h1{
+  margin-left: 145px;
+  margin-top: 30px;
+}
